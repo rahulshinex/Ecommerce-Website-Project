@@ -1,0 +1,49 @@
+My name is Nishant Kumar . I am student of 1st August batch in intershala of Full Stack Development course. Here is my final assignment for Front - End Development. 
+
+My website's zip file is named as final assignment . Zip file contains two folders , 6 HTML pages and a Javascript and CSS stylesheet. 
+
+First folder named logo , contains the different types of logo used in the website. 
+Second folder named products. contains two folder by the name of men and women and a HTMl file Kids.html . Men's folder contains four HTMl files. {All products.HTML , Hoodies.html and menpants.html , shirts.html} . WOmen's folder contains four html files by the name of { All products.html , Dresses.html , pants.html , Skirts.html} .  Kids.html web page is dedicated for kids page. 
+
+
+
+Finally it contains a JS File and CSS file named myscripts.js and style.css. respectively.
+
+It has 6 HTML files as already mentioned above by the name of { Cart.HTML , Contact.HTML , Footer.html , Header.html , Index.html , Login.HTML . 
+
+Finally it contains a JS File and CSS file named myscripts.js and style.css. respectively . 
+
+
+
+Now describing each html file in main folder:-
+
+
+Headder :- 1)Header has 2 parts . First parts contains the logo and second part contains the navigation bar. Below header (header's border)  there is an animation designed by css
+made by CSS.
+            2) .  In navigation bar things like searchbar , searchbutton , login button and Cart Button which has hover effect.
+
+Index.HTML :-  1)Header is designed by Javascript Dynamic header.
+               2)Below header there is a slider which linkns to 3 different catagories in website. Which are Men's Products , Women's product and Website shopping cart.
+                 Each slider content has a beatiful heading , given shadow effect and below there is paragraph 
+                 Each slider has button to go to their respective links , as mentioned above and button contains animation designed by CSS and Hover Effect .
+
+                3) In mid of the page there is a highlighted sectioned for featured products. Feature product section has 3 crousel . One carousal is displayed on only large and extra large          screen , one is displayed on only medium screen and one is only displayed in smaller screens , which I designed by display property. (D-none, D-md-none etc) 
+
+
+
+Login Page:- Login page required id and password to login and it is made by javascript if else statement.
+                   
+
+Footer :-  Footer has links to go to different section of the website. It has a logo , linking to homepage and there is company address and there are different links and soial media links.
+
+
+
+All Produuct, Men , Women , Kids :- Products pages are created same. All these pages are responsive . 
+
+
+Contact Page :- Contact page is created by two card in a row in two columns. One Column contains card image and one column contain card body , to get coustomer feedback and also his email.
+
+Cart:- One row has two columns . One column size is 7 col which contain image and product name , delete button and product count and button to add or remove one or more products. Second column size is 4 col . Ir contains summary of cart (Total price , shipping cost , Total Cost )
+
+
+ 
